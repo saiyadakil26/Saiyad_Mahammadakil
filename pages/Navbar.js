@@ -8,7 +8,7 @@ export default function Navbar(){
             <img src="./Fevicon.jpg" className="w-[5rem]"/>
         </div>
         <div className="flex flex-grow justify-end text-3xl mr-2">
-        <i class="fa-solid fa-bars"></i>
+        <i className="fa-solid fa-bars"></i>
         </div>
         
         </div>
